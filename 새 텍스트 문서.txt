@@ -7,6 +7,7 @@ fffasdf
 asdfasdf
 
 
+<<<<<<< HEAD
 업무진행
 
 알고리즘 1
@@ -19,4 +20,7 @@ asdfasdf
 신규업무 완성
 
 asdf
-asdf
+
+신규업무
+
+신규업무 완성
