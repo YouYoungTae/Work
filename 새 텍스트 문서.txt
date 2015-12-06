@@ -7,7 +7,6 @@ fffasdf
 asdfasdf
 
 
-<<<<<<< HEAD
 업무진행
 
 알고리즘 1
@@ -34,4 +33,10 @@ aaa
 
 
 fffff
+
 asdff
+
+
+사용자2
+eeeeffff
+
